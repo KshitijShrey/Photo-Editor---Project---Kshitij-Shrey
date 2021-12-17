@@ -8,8 +8,8 @@ device and store the processed image into their own phone's internal storage. Th
 a fully active logging system using the Google Firebase Database which provides easy Sign-Up/Sign-In/Logout
 features alongwith a simple interface design.</b></i></h4>
   
-  <b>Resources Used:-<b>
-    1 -> <i>https://www.section.io/engineering-education/loading-image-with-glide-in-android/</i> 
-    2 -> <i>https://developer.android.com/studio</i>
-    3 -> <i></i>
-    4 -> <i></i>
+  <b>Resources Used:-<b><br>
+    1 -> <i>https://www.section.io/engineering-education/loading-image-with-glide-in-android/</i><br>
+    2 -> <i>https://developer.android.com/studio</i><br>
+    3 -> <i></i><br>
+    4 -> <i></i><br>
