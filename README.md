@@ -14,11 +14,3 @@ features alongwith a simple interface design.</b></i></h4>
     3 -> <i><b>Google Firebase Console:</b> https://console.firebase.google.com/u/0/project/assignment2-19012021097login/overview</i><br>
     4 -> <i><b>03/12/2021 (Lecture) Firebase in android:</b> https://drive.google.com/file/d/1H_xWDd4N3zZ951hBb_TmzcH5fjeDVg06/view</i><br>
     5 -> <i><b>Heart of Dev Library:</b> https://www.tabnine.com/code/java/packages/com.theartofdev.edmodo.cropper</i><br>
-    
-    ![alt text](E:\KSRey\Shrey Sem 5\MAD\ProjectImages\Login0.png)<br>
-    
-    ![alt text](http://url/to/img.png)<br>
-    
-    ![alt text](http://url/to/img.png)<br>
-   
-    ![alt text](http://url/to/img.png)<br>
